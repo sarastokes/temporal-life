@@ -1,5 +1,8 @@
 # CHANGELOG
 
+### 28Nov2018
+- Added slitscan video function (`lib\slitscan.m`).
+
 ### 27Nov2018
 - Set up repository.
 
